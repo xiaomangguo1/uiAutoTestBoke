@@ -1,0 +1,14 @@
+[32mINFO    [0m root:base.py:22 正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="77dcac78c23764f73041b05be297f16a")>
+[32mINFO    [0m root:base.py:56 正在给元素:('css selector', '#member_name')，输入内容buyer
+[32mINFO    [0m root:base.py:36 正在查找元素:('css selector', '#member_name')
+[32mINFO    [0m root:base.py:60 正在给元素('css selector', '#member_name')在清空
+[32mINFO    [0m root:base.py:63 正在给元素:输入内容buyer
+[32mINFO    [0m root:base.py:56 正在给元素:('css selector', '#member_password')，输入内容123456
+[32mINFO    [0m root:base.py:36 正在查找元素:('css selector', '#member_password')
+[32mINFO    [0m root:base.py:60 正在给元素('css selector', '#member_password')在清空
+[32mINFO    [0m root:base.py:63 正在给元素:输入内容123456
+[32mINFO    [0m root:base.py:47 正在点击元素:('css selector', '.login-btn')
+[32mINFO    [0m root:base.py:36 正在查找元素:('css selector', '.login-btn')
+[32mINFO    [0m root:base.py:71 正在获取元素文本:('css selector', 'ul.login-regin li.line a')
+[32mINFO    [0m root:base.py:36 正在查找元素:('css selector', 'ul.login-regin li.line a')
+[32mINFO    [0m root:base.py:84 正在截图...

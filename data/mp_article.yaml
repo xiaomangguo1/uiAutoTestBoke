@@ -1,0 +1,4 @@
+mp_article001:
+    mp_title: "test00001"
+    mp_content: "有大有小的芒果快来吃"
+    expect: "操作成功"

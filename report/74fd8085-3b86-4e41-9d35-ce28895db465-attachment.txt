@@ -1,0 +1,20 @@
+[32mINFO    [0m root:base.py:19 正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="955d6108bc6ac3d9bde83cd8ed99f638")>
+[32mINFO    [0m root:page_mp_login.py:34 正在调用自媒体登录业务方法，用户名buyer，密码123456
+[32mINFO    [0m root:base.py:53 正在给元素:('css selector', '#member_name')，输入内容buyer
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', '#member_name')
+[32mINFO    [0m root:base.py:57 正在给元素('css selector', '#member_name')在清空
+[32mINFO    [0m root:base.py:60 正在给元素:输入内容buyer
+[32mINFO    [0m root:base.py:53 正在给元素:('css selector', '#member_password')，输入内容123456
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', '#member_password')
+[32mINFO    [0m root:base.py:57 正在给元素('css selector', '#member_password')在清空
+[32mINFO    [0m root:base.py:60 正在给元素:输入内容123456
+[32mINFO    [0m root:base.py:44 正在点击元素:('css selector', '.login-btn')
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', '.login-btn')
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', 'ul.login-regin li.line a')
+[32mINFO    [0m root:base.py:68 正在获取元素文本:buyer
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', 'ul.login-regin li.line a')
+[31m[1mERROR   [0m root:test01_mp_login.py:37 自媒体登录断言出错，错误信息 ：assert 'buyers' == 'buyer'
+  - buyer
+  + buyers
+  ?      +
+[31m[1mERROR   [0m root:base.py:81 断言出错，正在截图操作...

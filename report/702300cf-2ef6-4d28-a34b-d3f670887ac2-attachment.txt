@@ -1,0 +1,38 @@
+[32mINFO    [0m root:base.py:19 正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="296ad28744f74e23f5e94c2ea198cadb")>
+[32mINFO    [0m root:page_mp_login.py:47 正在调用自媒体登录业务方法，用户名小芒果香香，密码5776590XIAO
+[32mINFO    [0m root:base.py:53 正在给元素:('css selector', '#mat-input-0')，输入内容小芒果香香
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', '#mat-input-0')
+[32mINFO    [0m root:base.py:57 正在给元素('css selector', '#mat-input-0')在清空
+[32mINFO    [0m root:base.py:60 正在给元素:输入内容小芒果香香
+[32mINFO    [0m root:base.py:53 正在给元素:('css selector', '#mat-input-1')，输入内容5776590XIAO
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', '#mat-input-1')
+[32mINFO    [0m root:base.py:57 正在给元素('css selector', '#mat-input-1')在清空
+[32mINFO    [0m root:base.py:60 正在给元素:输入内容5776590XIAO
+[32mINFO    [0m root:base.py:44 正在点击元素:('css selector', '.action-button')
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', '.action-button')
+[32mINFO    [0m root:base.py:19 正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="296ad28744f74e23f5e94c2ea198cadb")>
+[32mINFO    [0m root:base.py:44 正在点击元素:('link text', '写博')
+[32mINFO    [0m root:base.py:33 正在查找元素:('link text', '写博')
+[32mINFO    [0m root:base.py:44 正在点击元素:('xpath', "//span[text()='添加新随笔']/..")
+[32mINFO    [0m root:base.py:33 正在查找元素:('xpath', "//span[text()='添加新随笔']/..")
+[32mINFO    [0m root:base.py:53 正在给元素:('css selector', '#post-title')，输入内容文章小标题测试
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', '#post-title')
+[32mINFO    [0m root:base.py:57 正在给元素('css selector', '#post-title')在清空
+[32mINFO    [0m root:base.py:60 正在给元素:输入内容文章小标题测试
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', '#Editor_Edit_EditorBody_ifr')
+[32mINFO    [0m root:base.py:53 正在给元素:('css selector', '#tinymce')，输入内容你们好啊，正在测试
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', '#tinymce')
+[32mINFO    [0m root:base.py:57 正在给元素('css selector', '#tinymce')在清空
+[32mINFO    [0m root:base.py:60 正在给元素:输入内容你们好啊，正在测试
+[32mINFO    [0m root:base.py:44 正在点击元素:('css selector', '#Editor_Edit_EditorBody_fontselect_text')
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', '#Editor_Edit_EditorBody_fontselect_text')
+[32mINFO    [0m root:base.py:44 正在点击元素:('xpath', "//*[text()='幼圆']")
+[32mINFO    [0m root:base.py:33 正在查找元素:('xpath', "//*[text()='幼圆']")
+[32mINFO    [0m root:base.py:44 正在点击元素:('xpath', "//span[text()='文章']")
+[32mINFO    [0m root:base.py:33 正在查找元素:('xpath', "//span[text()='文章']")
+[32mINFO    [0m root:base.py:44 正在点击元素:('xpath', "//button[contains(text(),'发布')]")
+[32mINFO    [0m root:base.py:33 正在查找元素:('xpath', "//button[contains(text(),'发布')]")
+[32mINFO    [0m root:base.py:33 正在查找元素:('xpath', "//*[contains(text(),'操作成功')]")
+[32mINFO    [0m root:base.py:68 正在获取元素文本:操作成功
+[32mINFO    [0m root:base.py:33 正在查找元素:('xpath', "//*[contains(text(),'操作成功')]")
+[1m[31mERROR   [0m root:base.py:81 断言出错，正在截图操作...

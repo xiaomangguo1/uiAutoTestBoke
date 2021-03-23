@@ -1,0 +1,15 @@
+INFO     root:base.py:19 正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="f5239880252b125e9875706c8bf135c6")>
+INFO     root:page_mp_login.py:35 正在调用自媒体登录业务方法，用户名小芒果香香，密码5776590XIAO
+INFO     root:base.py:53 正在给元素:('css selector', '#mat-input-0')，输入内容小芒果香香
+INFO     root:base.py:33 正在查找元素:('css selector', '#mat-input-0')
+INFO     root:base.py:57 正在给元素('css selector', '#mat-input-0')在清空
+INFO     root:base.py:60 正在给元素:输入内容小芒果香香
+INFO     root:base.py:53 正在给元素:('css selector', '#mat-input-1')，输入内容5776590XIAO
+INFO     root:base.py:33 正在查找元素:('css selector', '#mat-input-1')
+INFO     root:base.py:57 正在给元素('css selector', '#mat-input-1')在清空
+INFO     root:base.py:60 正在给元素:输入内容5776590XIAO
+INFO     root:base.py:44 正在点击元素:('css selector', '.action-button')
+INFO     root:base.py:33 正在查找元素:('css selector', '.action-button')
+INFO     root:base.py:33 正在查找元素:('css selector', 'div#header_user_right>a:nth-child(2)')
+INFO     root:base.py:68 正在获取元素文本:小芒果香香
+INFO     root:base.py:33 正在查找元素:('css selector', 'div#header_user_right>a:nth-child(2)')

@@ -1,0 +1,5 @@
+INFO     root:base.py:19 正在初始化driver<appium.webdriver.webdriver.WebDriver (session="3bafbd78-ca19-4564-82af-62f36048f5f3")>
+INFO     root:base.py:33 正在查找元素:('xpath', "//*[@class='android.widget.HorizontalScrollView']")
+INFO     root:base.py:33 正在查找元素:('xpath', "//android.widget.HorizontalScrollView/*[contains(@text,'Python')]")
+INFO     root:base.py:33 正在查找元素:('xpath', "//android.widget.HorizontalScrollView/*[contains(@text,'Python')]")
+INFO     root:base.py:33 正在查找元素:('xpath', "//android.widget.HorizontalScrollView/*[contains(@text,'Python')]")

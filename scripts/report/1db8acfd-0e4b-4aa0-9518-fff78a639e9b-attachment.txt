@@ -1,0 +1,1 @@
+INFO     root:base.py:19 正在初始化driver<appium.webdriver.webdriver.WebDriver (session="68569c3e-8be5-4113-906b-be1e688bd9aa")>

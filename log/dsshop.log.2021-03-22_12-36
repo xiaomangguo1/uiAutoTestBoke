@@ -1,0 +1,38 @@
+2021-03-22 12:36:46,933 INFO [root] [base.py (__init__:19)] - 正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="25f21aa7add79e1fe997c0a7371cd084")>
+2021-03-22 12:36:46,936 INFO [root] [page_mp_login.py (page_mp_login:35)] - 正在调用自媒体登录业务方法，用户名小芒果香香，密码5776590XIAO
+2021-03-22 12:36:46,937 INFO [root] [base.py (base_input:53)] - 正在给元素:('css selector', '#mat-input-0')，输入内容小芒果香香
+2021-03-22 12:36:46,937 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('css selector', '#mat-input-0')
+2021-03-22 12:36:46,990 INFO [root] [base.py (base_input:57)] - 正在给元素('css selector', '#mat-input-0')在清空
+2021-03-22 12:36:47,531 INFO [root] [base.py (base_input:60)] - 正在给元素:输入内容小芒果香香
+2021-03-22 12:36:47,532 INFO [root] [base.py (base_input:53)] - 正在给元素:('css selector', '#mat-input-1')，输入内容5776590XIAO
+2021-03-22 12:36:47,533 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('css selector', '#mat-input-1')
+2021-03-22 12:36:47,639 INFO [root] [base.py (base_input:57)] - 正在给元素('css selector', '#mat-input-1')在清空
+2021-03-22 12:36:47,840 INFO [root] [base.py (base_input:60)] - 正在给元素:输入内容5776590XIAO
+2021-03-22 12:36:48,840 INFO [root] [base.py (base_click:44)] - 正在点击元素:('css selector', '.action-button')
+2021-03-22 12:36:48,842 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('css selector', '.action-button')
+2021-03-22 12:36:52,123 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('css selector', 'div#header_user_right>a:nth-child(2)')
+2021-03-22 12:37:02,145 INFO [root] [base.py (base_get_text:68)] - 正在获取元素文本:小芒果香香
+2021-03-22 12:37:02,147 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('css selector', 'div#header_user_right>a:nth-child(2)')
+2021-03-22 12:37:22,063 INFO [root] [base.py (__init__:19)] - 正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="2b1517371a118640511dce7f79458731")>
+2021-03-22 12:37:22,064 INFO [root] [page_mp_login.py (page_mp_login_success:47)] - 正在调用自媒体登录业务方法，用户名小芒果香香，密码5776590XIAO
+2021-03-22 12:37:22,065 INFO [root] [base.py (base_input:53)] - 正在给元素:('css selector', '#mat-input-0')，输入内容小芒果香香
+2021-03-22 12:37:22,065 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('css selector', '#mat-input-0')
+2021-03-22 12:37:22,171 INFO [root] [base.py (base_input:57)] - 正在给元素('css selector', '#mat-input-0')在清空
+2021-03-22 12:37:22,643 INFO [root] [base.py (base_input:60)] - 正在给元素:输入内容小芒果香香
+2021-03-22 12:37:22,644 INFO [root] [base.py (base_input:53)] - 正在给元素:('css selector', '#mat-input-1')，输入内容5776590XIAO
+2021-03-22 12:37:22,645 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('css selector', '#mat-input-1')
+2021-03-22 12:37:22,696 INFO [root] [base.py (base_input:57)] - 正在给元素('css selector', '#mat-input-1')在清空
+2021-03-22 12:37:22,812 INFO [root] [base.py (base_input:60)] - 正在给元素:输入内容5776590XIAO
+2021-03-22 12:37:23,813 INFO [root] [base.py (base_click:44)] - 正在点击元素:('css selector', '.action-button')
+2021-03-22 12:37:23,814 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('css selector', '.action-button')
+2021-03-22 12:37:24,266 INFO [root] [base.py (__init__:19)] - 正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="2b1517371a118640511dce7f79458731")>
+2021-03-22 12:37:24,268 INFO [root] [page_mp_article.py (page_mp_publish_article:61)] - 正在调用发布文章业务方法--标题test00001
+2021-03-22 12:37:24,268 INFO [root] [base.py (base_click:44)] - 正在点击元素:('link text', '写博')
+2021-03-22 12:37:24,269 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('link text', '写博')
+2021-03-22 12:37:42,819 INFO [root] [base.py (base_click:44)] - 正在点击元素:('xpath', "//span[text()='添加新随笔']/..")
+2021-03-22 12:37:42,821 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('xpath', "//span[text()='添加新随笔']/..")
+2021-03-22 12:37:44,061 INFO [root] [base.py (base_input:53)] - 正在给元素:('css selector', '#post-title')，输入内容test00001
+2021-03-22 12:37:44,062 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('css selector', '#post-title')
+2021-03-22 12:37:44,251 INFO [root] [base.py (base_input:57)] - 正在给元素('css selector', '#post-title')在清空
+2021-03-22 12:37:44,629 INFO [root] [base.py (base_input:60)] - 正在给元素:输入内容test00001
+2021-03-22 12:37:44,629 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('css selector', '#Editor_Edit_EditorBody_ifr')

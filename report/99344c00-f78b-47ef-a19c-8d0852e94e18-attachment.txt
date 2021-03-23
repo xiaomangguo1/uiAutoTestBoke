@@ -1,0 +1,13 @@
+[32mINFO    [0m root:base.py:19 正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="dca7c69ac16ff44bc9d74013f9781097")>
+[32mINFO    [0m root:page_mp_login.py:47 正在调用自媒体登录业务方法，用户名小芒果香香，密码5776590XIAO
+[32mINFO    [0m root:base.py:53 正在给元素:('css selector', '#mat-input-0')，输入内容小芒果香香
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', '#mat-input-0')
+[32mINFO    [0m root:base.py:57 正在给元素('css selector', '#mat-input-0')在清空
+[32mINFO    [0m root:base.py:60 正在给元素:输入内容小芒果香香
+[32mINFO    [0m root:base.py:53 正在给元素:('css selector', '#mat-input-1')，输入内容5776590XIAO
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', '#mat-input-1')
+[32mINFO    [0m root:base.py:57 正在给元素('css selector', '#mat-input-1')在清空
+[32mINFO    [0m root:base.py:60 正在给元素:输入内容5776590XIAO
+[32mINFO    [0m root:base.py:44 正在点击元素:('css selector', '.action-button')
+[32mINFO    [0m root:base.py:33 正在查找元素:('css selector', '.action-button')
+[32mINFO    [0m root:base.py:19 正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="dca7c69ac16ff44bc9d74013f9781097")>

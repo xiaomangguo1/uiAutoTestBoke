@@ -1,0 +1,22 @@
+INFO     root:base.py:19 正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="d4a528a4f093f85e425acea5b38b5eec")>
+INFO     root:page_mp_login.py:47 正在调用自媒体登录业务方法，用户名小芒果香香，密码5776590XIAO
+INFO     root:base.py:53 正在给元素:('css selector', '#mat-input-0')，输入内容小芒果香香
+INFO     root:base.py:33 正在查找元素:('css selector', '#mat-input-0')
+INFO     root:base.py:57 正在给元素('css selector', '#mat-input-0')在清空
+INFO     root:base.py:60 正在给元素:输入内容小芒果香香
+INFO     root:base.py:53 正在给元素:('css selector', '#mat-input-1')，输入内容5776590XIAO
+INFO     root:base.py:33 正在查找元素:('css selector', '#mat-input-1')
+INFO     root:base.py:57 正在给元素('css selector', '#mat-input-1')在清空
+INFO     root:base.py:60 正在给元素:输入内容5776590XIAO
+INFO     root:base.py:44 正在点击元素:('css selector', '.action-button')
+INFO     root:base.py:33 正在查找元素:('css selector', '.action-button')
+INFO     root:base.py:19 正在初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="d4a528a4f093f85e425acea5b38b5eec")>
+INFO     root:base.py:44 正在点击元素:('link text', '写博')
+INFO     root:base.py:33 正在查找元素:('link text', '写博')
+INFO     root:base.py:44 正在点击元素:('xpath', "//span[text()='添加新随笔']/..")
+INFO     root:base.py:33 正在查找元素:('xpath', "//span[text()='添加新随笔']/..")
+INFO     root:base.py:53 正在给元素:('css selector', '#post-title')，输入内容文章小标题测试
+INFO     root:base.py:33 正在查找元素:('css selector', '#post-title')
+INFO     root:base.py:57 正在给元素('css selector', '#post-title')在清空
+INFO     root:base.py:60 正在给元素:输入内容文章小标题测试
+INFO     root:base.py:33 正在查找元素:('css selector', '#Editor_Edit_EditorBody_ifr')

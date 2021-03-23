@@ -1,0 +1,10 @@
+INFO     root:base.py:19 正在初始化driver<appium.webdriver.webdriver.WebDriver (session="2908bed0-32ee-4efd-b2b2-4fd96d33074d")>
+INFO     root:base.py:33 正在查找元素:('xpath', "//*[@class='android.widget.HorizontalScrollView']")
+INFO     root:base.py:33 正在查找元素:('xpath', "//android.widget.HorizontalScrollView//*[contains(@text,'Python')]")
+INFO     root:base.py:33 正在查找元素:('xpath', "//android.widget.HorizontalScrollView//*[contains(@text,'Python')]")
+INFO     root:base.py:44 正在点击元素:('xpath', "//android.widget.HorizontalScrollView//*[contains(@text,'Python')]")
+INFO     root:base.py:33 正在查找元素:('xpath', "//android.widget.HorizontalScrollView//*[contains(@text,'Python')]")
+INFO     root:base.py:33 正在查找元素:('xpath', "//*[@class ='android.support.v7.widget.RecyclerView' and @bounds='[0,532][1440,2560]']")
+INFO     root:base.py:33 正在查找元素:('xpath', "//*[@index='0' and @bounds='[12,552][1428,1128]']//*[contains(@text,'学习python第四天')]")
+INFO     root:base.py:44 正在点击元素:('xpath', "//*[@index='0' and @bounds='[12,552][1428,1128]']//*[contains(@text,'学习python第四天')]")
+INFO     root:base.py:33 正在查找元素:('xpath', "//*[@index='0' and @bounds='[12,552][1428,1128]']//*[contains(@text,'学习python第四天')]")

@@ -1,0 +1,3 @@
+INFO     root:base.py:19 正在初始化driver<appium.webdriver.webdriver.WebDriver (session="9678d759-0a1f-43f7-be9a-753e725449c4")>
+INFO     root:base.py:53 正在给元素:('xpath', "//*[ @index='1' and @class= 'android。widget.EditText']")，输入内容1380951222
+INFO     root:base.py:33 正在查找元素:('xpath', "//*[ @index='1' and @class= 'android。widget.EditText']")

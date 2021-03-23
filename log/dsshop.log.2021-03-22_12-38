@@ -1,0 +1,18 @@
+2021-03-22 12:37:46,431 INFO [root] [base.py (base_input:53)] - 正在给元素:('css selector', '#tinymce')，输入内容有大有小的芒果快来吃
+2021-03-22 12:37:46,438 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('css selector', '#tinymce')
+2021-03-22 12:37:46,628 INFO [root] [base.py (base_input:57)] - 正在给元素('css selector', '#tinymce')在清空
+2021-03-22 12:37:46,855 INFO [root] [base.py (base_input:60)] - 正在给元素:输入内容有大有小的芒果快来吃
+2021-03-22 12:37:47,859 INFO [root] [base.py (base_click:44)] - 正在点击元素:('css selector', '#Editor_Edit_EditorBody_fontselect_text')
+2021-03-22 12:37:47,860 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('css selector', '#Editor_Edit_EditorBody_fontselect_text')
+2021-03-22 12:37:49,120 INFO [root] [base.py (base_click:44)] - 正在点击元素:('xpath', "//*[text()='幼圆']")
+2021-03-22 12:37:49,121 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('xpath', "//*[text()='幼圆']")
+2021-03-22 12:37:50,877 INFO [root] [base.py (base_click:44)] - 正在点击元素:('xpath', "//span[text()='文章']")
+2021-03-22 12:37:50,880 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('xpath', "//span[text()='文章']")
+2021-03-22 12:37:52,009 INFO [root] [base.py (base_click:44)] - 正在点击元素:('xpath', "//button[contains(text(),'发布')]")
+2021-03-22 12:37:52,012 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('xpath', "//button[contains(text(),'发布')]")
+2021-03-22 12:37:55,285 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('xpath', "//*[contains(text(),'操作成功')]")
+2021-03-22 12:37:55,400 INFO [root] [base.py (base_get_text:68)] - 正在获取元素文本:操作成功
+2021-03-22 12:37:55,401 INFO [root] [base.py (base_find_element:33)] - 正在查找元素:('xpath', "//*[contains(text(),'操作成功')]")
+2021-03-22 12:38:05,444 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:116)] - Could not connect to port 4723 on host localhost
+2021-03-22 12:38:05,447 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:135)] - Could not get IP address for host: localhost
+2021-03-22 12:38:13,489 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:751)] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00B15A18>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
